@@ -1,0 +1,200 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    color: azure;
+    padding: 20px;
+    width: 60%;
+    margin-left: 240px;
+}
+
+hr {
+    color: azure;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+
+}
+
+
+
+
+.span {
+    color: cornflowerblue;
+    font-weight: bolder;
+}
+
+.btn {
+    margin: 10px 10px 20px 10px;
+}
+
+.header {
+    background-image: url('images/background.jpg');
+    text-align: center;
+    background-size: cover;
+    padding: 30px;
+    padding-bottom: 150px;
+
+}
+
+.main-paragraph {
+    font-weight: lighter;
+    color: rgb(224, 230, 230);
+    width: 50%;
+    line-height: 1.5;
+    margin-left: 25%;
+    padding: 20px;
+}
+
+.row2 {
+
+    margin: 0 7% 0 7%;
+
+}
+
+.img {
+
+    width: 320px;
+    height: 200px;
+    border-radius: 10px;
+
+}
+
+.slide {
+    position: relative;
+    bottom: 100px;
+
+}
+
+.carousel-indicators {
+    margin: 50px;
+}
+
+.carousel-control-prev-icon {
+
+    background-color: cornflowerblue;
+    margin-right: 55px;
+}
+
+.carousel-control-next-icon {
+    margin-left: 25px;
+    background-color: cornflowerblue;
+}
+
+
+/* CATEGORIES */
+
+#categories {
+    text-align: left;
+
+}
+
+.category {
+    padding-bottom: 7%;
+}
+
+.category-header {
+    position: relative;
+    left: 4.5%;
+    margin: 3%;
+}
+
+.btn-category {
+    position: absolute;
+    right: 9%;
+    top: 3%;
+    /* float: right; */
+}
+
+.category-card {
+    min-height: 400px;
+    width: 250px;
+    text-align: center;
+    padding: 5% 2% 0 2%;
+
+}
+
+.card-img-top {
+    position: relative;
+    border-radius: 10px;
+    margin: 7%;
+    right: 6%;
+}
+
+.btn-block {
+    position: relative;
+    width: 100%;
+    right: 6%;
+    margin: 7%;
+}
+
+.font-awesome {
+    position: relative;
+    right: 5px;
+    font-size: 30px;
+    float: left;
+
+}
+
+/* winners category */
+.winners {
+    text-align: center;
+    padding: 5%;
+    background-color: lightcyan;
+}
+
+.winner-header {
+    margin: 7%;
+}
+
+.winner1 {
+    position: relative;
+    margin: 5%;
+}
+
+.participants {
+    position: absolute;
+    left: 2%;
+}
+
+.pics1 {
+    position: absolute;
+    right: 4%;
+}
+
+.btn-winner {
+    position: relative;
+    top: 60px;
+    margin: 5%;
+
+}
+
+
+/* pricing section */
+
+#pricing {
+    text-align: center;
+    margin: 9%;
+}
+
+.pricing-card {
+    padding: 3%;
+    text-align: center;
+}
+
+.span1 {
+    color: cornflowerblue;
+}
+
+.pricing-header {
+    margin-bottom: 7%;
+    line-height: 1.2;
+}
+
+.footer {
+    color: aliceblue;
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 3%;
+}
